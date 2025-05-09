@@ -1,5 +1,5 @@
 
-```markdown
+
 # 📚 LibraryNotebookApp
 
 A desktop application built with **C# (.NET 8.0)** and **Windows Forms**, using **Entity Framework Core** and **SQLite** to manage library operations such as issuing, returning, viewing, and organizing books and student data.
