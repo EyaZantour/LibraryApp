@@ -8,14 +8,14 @@ A desktop application built with **C# (.NET 8.0)** and **Windows Forms**, using 
 
 ## Features
 
-- 📖 Add, edit, and delete books
-- 👩‍🎓 Add, search, and manage student profiles
-- 📥 Issue books to students with availability tracking
-- 📤 Return books with date logging and automatic quantity updates
-- 🔍 Real-time search and filtering in DataGridViews
-- 🗂 Organized with clean separation between UI and data access layers
-- 💾 Persistent storage using SQLite and EF Core
-- 🎯 Built with best practices (Dependency Injection, Repository pattern)
+-  Add, edit, and delete books
+-  Add, search, and manage student profiles
+-  Issue books to students with availability tracking
+-  Return books with date logging and automatic quantity updates
+-  Real-time search and filtering in DataGridViews
+-  Organized with clean separation between UI and data access layers
+-  Persistent storage using SQLite and EF Core
+-  Built with best practices (Dependency Injection, Repository pattern)
 
 ---
 
@@ -63,9 +63,9 @@ LibraryNotebookApp/
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
-### ✅ Requirements
+### Requirements
 
 - [.NET 8.0 SDK](https://dotnet.microsoft.com/download)
 - [Visual Studio 2022+](https://visualstudio.microsoft.com/)
@@ -73,7 +73,7 @@ LibraryNotebookApp/
 
 ---
 
-### 🧪 Run the Project
+### Run the Project
 
 1. **Clone the repository**:
 
@@ -90,7 +90,7 @@ cd LibraryNotebookApp
 
 ---
 
-## 🛡️ Entity Framework & Database
+## Entity Framework & Database
 
 * Automatically creates `library.db` (SQLite)
 * Uses migrations (`Add-Migration`, `Update-Database`)
@@ -98,15 +98,15 @@ cd LibraryNotebookApp
 
 ---
 
-## 🤝 Contributors
+## Contributors
 
-👩‍💻 Developed by: **\[Eya Zantour & Binta Ball]**
-🎓 Academic project for: **\[Ecole Polytechnique de Sousse ]**
-📆 Date: **May 2025**
+Developed by: **\[Eya Zantour & Binta Ball]**
+Academic project for: **\[Ecole Polytechnique de Sousse ]**
+Date: **May 2025**
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational use.
 You are free to fork and build upon it for learning purposes.
