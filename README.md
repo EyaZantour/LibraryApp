@@ -6,7 +6,7 @@ A desktop application built with **C# (.NET 8.0)** and **Windows Forms**, using 
 
 ---
 
-## 🚀 Features
+## Features
 
 - 📖 Add, edit, and delete books
 - 👩‍🎓 Add, search, and manage student profiles
@@ -16,6 +16,12 @@ A desktop application built with **C# (.NET 8.0)** and **Windows Forms**, using 
 - 🗂 Organized with clean separation between UI and data access layers
 - 💾 Persistent storage using SQLite and EF Core
 - 🎯 Built with best practices (Dependency Injection, Repository pattern)
+
+---
+
+## Diagramme de Classe
+
+![biblio drawio](https://github.com/user-attachments/assets/f8863d16-2ae9-49ed-8ed0-717e046bb041)
 
 ---
 
@@ -30,7 +36,7 @@ A desktop application built with **C# (.NET 8.0)** and **Windows Forms**, using 
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```
 
