@@ -21,9 +21,10 @@ A desktop application built with **C# (.NET 8.0)** and **Windows Forms**, using 
 
 ## Diagramme de Classe
 
-![biblio drawio](https://github.com/user-attachments/assets/f8863d16-2ae9-49ed-8ed0-717e046bb041)
+![biblio drawio](https://github.com/user-attachments/assets/b0d7cd71-8f91-4cbc-82b0-24bb7803890a)
 
 ---
+
 
 ## 🛠️ Technologies Used
 
